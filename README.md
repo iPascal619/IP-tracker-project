@@ -1,0 +1,1 @@
+IP Tracker is a simple web application that allows users to track and obtain information about IP addresses. With this tool, users can input an IP address and receive valuable data about its geographical location, internet service provider (ISP), and more. This project aims to provide users with a quick and easy way to gather essential information about any given IP address.
